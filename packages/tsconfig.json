@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "composite": true
+  },
+  "files": [],
+  "include": [],
+  "references": [
+    {
+      "path": "./notion-types/tsconfig.json"
+    },
+    {
+      "path": "./notion-utils/tsconfig.json"
+    },
+    {
+      "path": "./notion-client/tsconfig.json"
+    },
+    {
+      "path": "./react-notion-x/tsconfig.json"
+    }
+  ]
+}

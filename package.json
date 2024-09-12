@@ -50,8 +50,12 @@
     "react-tweet-embed": "^2.0.0",
     "react-use": "^17.4.2",
     "rss": "^1.2.2",
+    "tsup": "^8.2.4",
     "vercel": "^32.3.0"
   },
+  "workspaces": [
+    "packages/*"
+  ],
   "devDependencies": {
     "@next/bundle-analyzer": "^12.3.1",
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
